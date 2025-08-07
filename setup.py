@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="DomPilot",
-    version="0.1.2",
+    version="0.1.1",
     description="AI webscraping library powered by Playwright and LLMs",
     author="TheNoobiCat",
     author_email="",
